@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aarvre">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/aarvre.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
